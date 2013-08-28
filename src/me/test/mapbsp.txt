@@ -1,0 +1,36 @@
+			return getWorldOutOfString(
+					"IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII,"+
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+                    "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+                    "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "I                                                             I," +
+	                "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII,");
